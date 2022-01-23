@@ -38,6 +38,11 @@ namespace Singleton
         // Önce bir private constructor oluştururuz. (Yani constructor ı var ama dışarıdan erişilemiyor.)
 
         private static CustomerManager _customerManager;
+        
+        /// Thread Safe Singleton için static bir object oluştururuz. (Her zaman kullanılmak zorunda olan bir işlem değildir.)
+        /// New leme işlemini kilitleme, bir kere yapıldığından emin olma işlemidir.
+        static object _lockObject = new object();
+        
         private CustomerManager() // private constructor ımız.
         {
 
@@ -49,9 +54,22 @@ namespace Singleton
         // Daha sonra methodta bunun sorgulamasını yaptırız ve ona göre new leme işlemini gerçekleştir. Böylece gereksiz new leme işlemlerinden kurtulmuş oluruz.
         public static CustomerManager CreateAsSingleton()
         {
+            // SingletonPatterDesign kullanımı bu şekildedir. Thread Safe Singleton örneğini de yapmak için burayı yorum satırı haline getiriyorum:
+            // return _customerManager ?? (_customerManager = new CustomerManager()); // _customerManager yani bir CustomerManager new lenmiş mi?
+            // Newlenmişse onu kullan, değilse de new le.
 
-            return _customerManager ?? (_customerManager = new CustomerManager()); // _customerManager yani bir CustomerManager new lenmiş mi?
-                                                                                   // Newlenmişse onu kullan, değilse de new le.
+            //Thread Safe Singleton
+
+            lock (_lockObject)
+            {
+                if (_customerManager == null)
+                {
+                    _customerManager = new CustomerManager();
+                }
+            }
+
+            return _customerManager;
+                                                                                      
 
         }
 
