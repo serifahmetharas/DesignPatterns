@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\DesignPatterns\\Singleton\\Singleton.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton.csproj",
       "projectName": "Singleton",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\DesignPatterns\\Singleton\\Singleton.csproj",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\Singleton.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\DesignPatterns\\Singleton\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\DesignPatterns\\DesignPatterns\\Singleton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
