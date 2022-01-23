@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.AssemblyReference.cache
