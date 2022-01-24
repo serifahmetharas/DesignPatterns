@@ -16,6 +16,8 @@ namespace AbstractFactory
         {
             ProductManager productManager = new ProductManager(new Factory2());
             productManager.GetAll();
+            
+
 
             Console.ReadLine();
         }

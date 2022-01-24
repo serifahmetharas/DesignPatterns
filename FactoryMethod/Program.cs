@@ -9,7 +9,7 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
-            CustomerManager customerManager = new CustomerManager(new LoggerFactory1()); // Hangi factory ile çalışılacaksa burada çağırılıyor.
+            CustomerManager customerManager = new CustomerManager(new LoggerFactory2()); // Hangi factory ile çalışılacaksa burada çağırılıyor.
             customerManager.Save();
 
             Console.ReadLine();

@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache
