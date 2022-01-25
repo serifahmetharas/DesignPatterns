@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.exe
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.deps.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\net5.0\ref\Proxy.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\net5.0\ref\Proxy.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.genruntimeconfig.cache

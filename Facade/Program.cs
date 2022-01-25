@@ -110,6 +110,7 @@ namespace Facade
         public ICaching Caching;
         public IAuthorize Authorize;
 
+       
         public CrossCuttingConcernsFacade()
         {
             Logging = new Logging();

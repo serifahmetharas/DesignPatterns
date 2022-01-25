@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
