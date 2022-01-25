@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.exe
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.pdb
+C:\Users\ASUS\source\repos\DesignPatterns\DesignPatterns\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache
